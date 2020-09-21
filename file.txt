@@ -1,4 +1,3 @@
 Change in file.
 Am facut schimbari.
 Fac iar schimbari.
-Adding new, experimental functionality.
